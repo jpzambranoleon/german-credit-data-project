@@ -93,3 +93,12 @@ The German Credit data set is a publically available data set downloaded from th
 - Most of the loans issued had a duration of 12 and 24 months
 - Most applicants that repaid their loans within 24 months are classified as **good**
 - Most applicants with a loan duration that exceeds 24 months are classified as **bad**
+
+## Conclusions from the Analysis
+
+- Loans with durations terms less than 24 months are more likely to be repaid
+- It’s safer to issue loans with a credit amount less than 5,000 DM and a duration term of fewer than 24 months
+- Applicants who own property show that they are financially independent and are better candidates for a loan
+- Applicants with **skilled** and **highly skilled** jobs are safer candidates to issue loans
+- Car loans are the most common loans with a high gain to loss ratio issued by the bank (most profitable loan)
+- It’s more profitable to issue loans that are less than 2,500 DM than higher credit loans that are less likely to be repaid
