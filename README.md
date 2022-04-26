@@ -56,14 +56,14 @@ The German Credit data set is a publically available data set downloaded from th
 - The density distribution from the violin plots follows the same trend suggesting that the majority of the male and female applicants are categorized as **skilled** workers
 
 ### Distribution by Job Category
-<img src="graphs/distribution_by_job.png" alt="alt text" width="500" height="500">
+<img src="graphs/distribution_by_job.png" alt="alt text" width="530" height="500">
 
 - There are 2x more applicants with **skilled** jobs that are classified as **good**
 - More than 50% of applicants are under the **skilled** and **unskilled and resident** job categories
 - Applicants that are **highly skilled** are more likely to take out larger loans
 
 ### Distribution by Saving Accounts
-<img src="graphs/savings_distribution.png" alt="alt text" width="417" height="543">
+<img src="graphs/savings_distribution.png" alt="alt text" width="500" height="500">
 
 - Applicants with **little** or **no** saving accounts are more likely to apply for loans
 - The majority of the applicants are in the **little** category
@@ -72,7 +72,7 @@ The German Credit data set is a publically available data set downloaded from th
 - Applicants with **little** and **no** savings accounts with a credit amount loan that exceeds 5,000 DM are more likely to classify as **bad**
 
 ### Distribution by Checking Accounts
-<img src="graphs/checking_distribution.png" alt="alt text" width="417" height="543">
+<img src="graphs/checking_distribution.png" alt="alt text" width="500" height="500">
 
 - More than 300 hundred applicants had no checking accounts
 - More than 3x the applicants that didn’t have checking accounts were classified as **good**
