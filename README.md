@@ -11,5 +11,5 @@ The German Credit data set is a publically available data set downloaded from th
 ### Visual Graphs
 <img src="graphs/target_variable_distribution.png" alt="alt text" width="400" height="300">
 <img src="graphs/pairplot.png" alt="alt text" width="400" height="300">
-<img src="graphs/age_credit_distribution.png" alt="alt text" width="400" height="300">
+<img src="graphs/age_credit_duration_distribution.png" alt="alt text" width="400" height="300">
 <img src="graphs/credit_by_age.png" alt="alt text" width="400" height="300">
