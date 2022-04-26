@@ -37,3 +37,9 @@ The German Credit data set is a publically available data set downloaded from th
 Saving | Checking
 -------|------
 <img src="graphs/savings_distribution.png" alt="alt text" width="417" height="543"> | <img src="graphs/checking_distribution.png" alt="alt text" width="417" height="543">
+
+### Distribution by Purpose
+<img src="graphs/purpose_distribution.png" alt="alt text" width="500" height="500">
+
+### Distribution by Duration
+<img src="graphs/distribution_by_duration.png" alt="alt text" width="500" height="500">
