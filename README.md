@@ -25,10 +25,10 @@ The German Credit data set is a publically available data set downloaded from th
 <img src="graphs/housing_distribution.png" alt="alt text" width="400" height="300">
 
 ### Credit Amount by Housing
-<img src="graphs/credit_by_housing.png" alt="alt text" width="400" height="300">
+<img src="graphs/credit_by_housing.png" alt="alt text" width="400" height="500">
 
 ### Distribution by Gender
-<img src="graphs/gender_distribution.png" alt="alt text" width="400" height="300">
+<img src="graphs/gender_distribution.png" alt="alt text" width="400" height="500">
 
 ### Distribution by Job Category
-<img src="graphs/distribution_by_job.png" alt="alt text" width="400" height="300">
+<img src="graphs/distribution_by_job.png" alt="alt text" width="400" height="500">
