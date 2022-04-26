@@ -32,3 +32,8 @@ The German Credit data set is a publically available data set downloaded from th
 
 ### Distribution by Job Category
 <img src="graphs/distribution_by_job.png" alt="alt text" width="500" height="500">
+
+### Saving and Checking Acounts Distribution
+Saving | Checking
+-------|------
+<img src="graphs/savings_distribution.jpg" alt="alt text" width="317" height="543"> | <img src="graphs/checking_distribution.png" alt="alt text" width="317" height="543">
