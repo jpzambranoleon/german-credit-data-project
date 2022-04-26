@@ -43,6 +43,7 @@ Saving | Checking
 
 ### Distribution by Duration
 <img src="graphs/distribution_by_duration.png" alt="alt text" width="500" height="500">
+
 - Most of the loans issued had a duration of 12 and 24 months
-- Most applicants that repaid their loans within 24 months are classified as *good*
-- Most applicants with a loan duration that exceeds 24 months are classified as *bad*
+- Most applicants that repaid their loans within 24 months are classified as good
+- Most applicants with a loan duration that exceeds 24 months are classified as bad
