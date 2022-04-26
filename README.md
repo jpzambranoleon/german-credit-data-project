@@ -65,7 +65,13 @@ The German Credit data set is a publically available data set downloaded from th
 ### Saving and Checking Acounts Distribution
 Saving | Checking
 -------|------
-<img src="graphs/savings_distribution.png" alt="alt text" width="417" height="543"> | <img src="graphs/checking_distribution.png" alt="alt text" width="417" height="543">
+<img src="graphs/savings_distribution.png" alt="alt text" width="417" height="543">
+
+- Applicants with **little** or **no** saving accounts are more likely to apply for loans
+- The majority of the applicants are in the **little** category
+- 50% of the applicants in the **little** category are between the age range of 25 and 45
+- Applicants with **moderate**, **quite rich**, and **rich** savings accounts are more likely to be classified as good
+- Applicants with **little** and **no** savings accounts with a credit amount loan that exceeds 5,000 DM are more likely to classify as **bad** | <img src="graphs/checking_distribution.png" alt="alt text" width="417" height="543">
 
 - Applicants with **little** or **no** saving accounts are more likely to apply for loans
 - The majority of the applicants are in the **little** category
