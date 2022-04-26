@@ -38,8 +38,24 @@ Saving | Checking
 -------|------
 <img src="graphs/savings_distribution.png" alt="alt text" width="417" height="543"> | <img src="graphs/checking_distribution.png" alt="alt text" width="417" height="543">
 
+- Applicants with **little** or **no** saving accounts are more likely to apply for loans
+- The majority of the applicants are in the **little** category
+- 50% of the applicants in the **little** category are between the age range of 25 and 45
+- Applicants with **moderate**, **quite rich**, and **rich** savings accounts are more likely to be classified as good
+- Applicants with **little** and **no** savings accounts with a credit amount loan that exceeds 5,000 DM are more likely to classify as **bad**
+
+- More than 300 hundred applicants had no checking accounts
+- More than 3x the applicants that didn’t have checking accounts were classified as **good**
+- 50% of the applicants that had **moderate** checking accounts were between the age range of 25 to 40
+- There is a larger dispersion of applicants with **rich** checking accounts that are classified as **good** and are between the ages of 25 and 45
+- Applicants with a high credit amount and **little** in their checking accounts are more likely to classify as **bad**
+
 ### Distribution by Purpose
 <img src="graphs/purpose_distribution.png" alt="alt text" width="500" height="500">
+
+- A large portion of applicants requested loans for buying cars, **radios/tv’s**
+- More than half of the applicants applied for loans less than 5,000 DM
+- Applicants with high credit loans are more likely to classify as **bad**
 
 ### Distribution by Duration
 <img src="graphs/distribution_by_duration.png" alt="alt text" width="500" height="500">
